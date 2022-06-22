@@ -9,7 +9,7 @@ Kırtasiye sipariş sistemi.
 ## Kurulum
 <ul>
 <li>
-İndirdiğiniz proje dosyalarını XAMPP programının kurulu olduğu kısımdaki htdocs klasörüne (Windows için C:\xampp\htdocs) atın.</li>
+İndirdiğiniz proje dosyalarını (kırtasiye klasörünü ve index.php dosyasını) XAMPP programının kurulu olduğu kısımdaki htdocs klasörüne (Windows için C:\xampp\htdocs) atın.</li>
 <li>
 XAMPP Control Panel'i çalıştırın. "Module" kısmındaki Apache ve MySQL servislerini "Start" butonuna basarak aktif hale getirin.
 </li>
