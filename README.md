@@ -17,10 +17,10 @@ XAMPP Control Panel'i çalıştırın. "Module" kısmındaki Apache ve MySQL ser
 Web tarayıcıdan <a href="http://localhost/phpmyadmin">http://localhost/phpmyadmin</a> adresine girin. Mevcut veritabanlarının listelendiği sol kısımda bulunan "Yeni" linkine tıklayın.
 </li>
 <li>
-Açılan pencerede "Veritabanı oluştur" yazısının altındaki "Veritabanı adı" kısmına "kırtasiyeveritabanı" yazın. "Karşılaştırma" kısmında ise "utf8mb4_0900_ai_ci" seçin.
+Açılan pencerede "Veritabanı oluştur" yazısının altındaki "Veritabanı adı" kısmına "<b>kirtasiyeveritabani</b>" yazın. "Karşılaştırma" kısmında ise "<b>utf8mb4_0900_ai_ci</b>" seçin.
 </li>
 <li>
-Sol kısımdan oluşturduğunuz "kırtasiyeveritabanı"na tıklayın. Sonrasında üst kısımda yer alan "İçe aktar" butonuna tıklayın ve indirdiğiniz "kırtasiyeveritabanı.sql" adlı dosyayı upload edip "Git" butonuna basın.
+Sol kısımdan oluşturduğunuz "kirtasiyeveritabani"na tıklayın. Sonrasında üst kısımda yer alan "İçe aktar" butonuna tıklayın ve indirdiğiniz "<b>kirtasiyeveritabani.sql</b>" adlı dosyayı upload edip "Git" butonuna basın.
 </li>
 <li>
 İndirdiğiniz "config.php" dosyasını açın "DB_PASSWORD" kısmına MySQL şifrenizi, "DB_NAME" kısmına da "kirtasiyeveritabani" yazın.
@@ -37,6 +37,3 @@ Sol kısımdan oluşturduğunuz "kırtasiyeveritabanı"na tıklayın. Sonrasınd
 
 ## İletişim
 <p>Email: <a href="mailto:samet-ozkan@outlook.com">samet-ozkan@outlook.com</a></p>
-
-
-
