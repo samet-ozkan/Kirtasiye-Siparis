@@ -33,6 +33,7 @@ Sol kısımdan oluşturduğunuz "kirtasiyeveritabani"na tıklayın. Sonrasında 
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
+    <li>PHP</li>
 </ul>
 
 ## İletişim
